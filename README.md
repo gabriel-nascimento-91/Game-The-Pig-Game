@@ -6,3 +6,5 @@
 - First player to reach 50 wins!🏆🏆
 
 #### This project is part of the Jonas Schmedtmann's Udemy JavaScript course.
+
+## https://gabriel-nascimento-91.github.io/Game-The-Pig-Game/
